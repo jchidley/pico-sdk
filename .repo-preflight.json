@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "repo-preflight-disposition",
+  "identity": "github.com/jchidley/pico-sdk",
+  "decision": "no-change-required",
+  "reviewedCommit": "d6c72a0ebdbd04f1bc2072a7a396b43bec2338c2",
+  "operation": "inspect",
+  "files": {
+    "README.md": "35c2e330ff5108aa7b4c4654c5cd3545e6bc9d0ea9c07fb8e52e261bf8a5efbe"
+  },
+  "profileId": "4e2f946311539a962f68da645c3a22ac068d8be0022fc08f8ed3cae14331fcc2",
+  "reviewer": "controller-pi-session-01a07795-640e-7529-b8bf-bbdc58622b3e",
+  "summary": "Current reviewed guidance scope requires no repository-local change.",
+  "evidenceSummary": [
+    "Retain no-local-surface: complete 94-entry Rust driver tree and full README establish Pico Technology oscilloscope bindings, not Raspberry Pi or Pi coding agent. README explicitly documents device-opening tests and driver downloads; neither was run. Earlier generic hardware wording is now narrowed to the actual product.",
+    "Account-wide rollout identity, source scope, disposition, and validation evidence were reconciled."
+  ],
+  "limitations": [
+    "Prior semantic findings retained as historical evidence, not independently re-certified by this verification pass."
+  ],
+  "recordedAt": "2026-09-06T22:49:05.362Z",
+  "publicationApproved": false
+}
